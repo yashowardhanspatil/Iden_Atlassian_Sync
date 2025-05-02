@@ -1,0 +1,147 @@
+[
+    {
+        "id": "01d926c3-3d63-4824-8837-ef627c48fa55",
+        "name": "jira-admins-playscript",
+        "description": "Grants access to the administration features for all Jira products on playscript"
+    },
+    {
+        "id": "a0b7fd4f-edf6-4ed5-956c-1a53ce5f8a7c",
+        "name": "jira-user-access-admins-playscript",
+        "description": "Grants access to administer users and groups for Jira on playscript. Doesn\u2019t grant any product access."
+    },
+    {
+        "id": "3cd55d2d-14aa-4bd9-82f1-d53d65cf3f48",
+        "name": "jira-users-playscript",
+        "description": "Grants access to Jira on playscript"
+    },
+    {
+        "id": "bf84d0a9-6d8d-49dd-a46d-45377396e98c",
+        "name": "org-admins",
+        "description": "Grants access to administer org-level settings, users, and groups, and to view billing"
+    },
+    {
+        "id": "08f5617b-d600-4262-8fe6-510efe512a7a",
+        "name": "test_group_1",
+        "description": "Handles CI/CD pipeline orchestration and automated deployment monitoring."
+    },
+    {
+        "id": "79230514-642e-47c9-b566-ca25cdbe6106",
+        "name": "test_group_10",
+        "description": "Responsible for frontend UI/UX engineering and accessibility standards compliance."
+    },
+    {
+        "id": "024ffab7-0c89-4ea8-979a-6564c07a3320",
+        "name": "test_group_11",
+        "description": "Maintains backend microservices and API performance optimization."
+    },
+    {
+        "id": "3333b1a5-422a-4e06-90a7-eb64914dd130",
+        "name": "test_group_12",
+        "description": "Leads containerization, Docker orchestration, and infrastructure scalability."
+    },
+    {
+        "id": "4a42f843-7cdf-4695-896e-b0101d2159b1",
+        "name": "test_group_13",
+        "description": "Manages cloud infrastructure across AWS and Azure with cost optimization."
+    },
+    {
+        "id": "5a4493e3-cd11-48f2-8d74-50e7427acff2",
+        "name": "test_group_14",
+        "description": "Focuses on system security audits, patching, and vulnerability assessment."
+    },
+    {
+        "id": "6c53f019-74f6-48f1-9d1d-fabb1f819d36",
+        "name": "test_group_15",
+        "description": "In charge of ML model lifecycle management and A/B experimentation."
+    },
+    {
+        "id": "9b677f91-8bee-4bec-95b2-56724bfc8d04",
+        "name": "test_group_16",
+        "description": "Develops and maintains internal developer tooling and SDKs."
+    },
+    {
+        "id": "d8f5f2f1-c0fc-4d66-a514-65f1e5a8a147",
+        "name": "test_group_17",
+        "description": "Oversees production database tuning, migration, and failover systems."
+    },
+    {
+        "id": "defcaece-f661-44fc-829a-9287ae8a6c3b",
+        "name": "test_group_18",
+        "description": "Handles cross-platform mobile app development and release pipelines."
+    },
+    {
+        "id": "f93af2e9-e0fa-4ca2-8166-053f653aae78",
+        "name": "test_group_19",
+        "description": "Leads SRE initiatives including uptime monitoring and incident response."
+    },
+    {
+        "id": "ff6c69b5-ecac-4c8e-87ad-ddf6f60a0f10",
+        "name": "test_group_2",
+        "description": "Maintains identity and access management protocols across services."
+    },
+    {
+        "id": "f0b8bb0b-e624-4f33-9626-d19dab285f93",
+        "name": "test_group_20",
+        "description": "Develops real-time analytics dashboards and telemetry integration."
+    },
+    {
+        "id": "04668d5d-199d-4156-a531-e6ff979251fe",
+        "name": "test_group_21",
+        "description": "Builds and trains NLP and language models for internal applications."
+    },
+    {
+        "id": "820b14fa-f639-4866-8d61-99211b71dc3d",
+        "name": "test_group_22",
+        "description": "Designs and runs automated test suites and quality assurance pipelines."
+    },
+    {
+        "id": "8d291458-5ccb-4125-819f-0255be0151ff",
+        "name": "test_group_23",
+        "description": "In charge of feature flag architecture and rollout strategy."
+    },
+    {
+        "id": "d8dc389c-0a0b-43c1-9ed2-e32903b043ee",
+        "name": "test_group_24",
+        "description": "Maintains Kubernetes clusters and Helm-based deployments."
+    },
+    {
+        "id": "1f3cd4cc-2248-43fe-b048-34b4791e7478",
+        "name": "test_group_25",
+        "description": "Develops integrations with third-party APIs and webhook handlers."
+    },
+    {
+        "id": "128feefe-a352-408a-8f17-fd797d3e4c25",
+        "name": "test_group_3",
+        "description": "Works on DevSecOps processes and shift-left security tooling."
+    },
+    {
+        "id": "fcc9c0ed-afae-45fd-94bd-bf68c0dee49d",
+        "name": "test_group_4",
+        "description": "Maintains code repositories, version control rules, and branching strategy."
+    },
+    {
+        "id": "81bce50e-b78f-49ee-ba1e-4f744d7ca3f6",
+        "name": "test_group_5",
+        "description": "Handles system load testing, chaos engineering, and fault injection."
+    },
+    {
+        "id": "f4bf3be2-d3b2-4911-8152-6ca3330d06c5",
+        "name": "test_group_6",
+        "description": "Builds serverless functions and event-driven microservice architecture."
+    },
+    {
+        "id": "25bc337d-2837-4635-878a-dd620ef5613e",
+        "name": "test_group_7",
+        "description": "Implements observability stack with Prometheus, Grafana, and OpenTelemetry."
+    },
+    {
+        "id": "ff941419-2895-4986-b76f-eb5f33df25cf",
+        "name": "test_group_8",
+        "description": "Designs user authentication workflows and secure session management."
+    },
+    {
+        "id": "7cf32e4f-fd7d-424e-a2b4-e9bd2dab0f46",
+        "name": "test_group_9",
+        "description": "Researches AI model distillation, pruning, and edge deployment strategies."
+    }
+]

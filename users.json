@@ -1,0 +1,1739 @@
+[
+    {
+        "id": "712020:d2c376cd-99e5-45a1-9f85-c93348f4be5a",
+        "name": "adamsrichard",
+        "email": "adamsrichard@debugger.com",
+        "last_active": "2025-05-01T08:23:15.419578Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_16",
+            "test_group_21"
+        ]
+    },
+    {
+        "id": "712020:87189928-3095-4341-821f-0f4275342f67",
+        "name": "adamsronald",
+        "email": "adamsronald@testmail.com",
+        "last_active": "2025-05-01T07:57:43.507997Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1",
+            "test_group_16"
+        ]
+    },
+    {
+        "id": "712020:ebb5d0eb-d14b-47db-a0fc-0129a8330715",
+        "name": "adamsronald",
+        "email": "adamsronald@academy.com",
+        "last_active": "2025-05-01T08:02:54.062207Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1"
+        ]
+    },
+    {
+        "id": "712020:39022686-1fb6-4834-865f-f82f3b8c86c0",
+        "name": "alan60",
+        "email": "alan60@debugger.com",
+        "last_active": "2025-05-01T08:19:46.678256Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_16"
+        ]
+    },
+    {
+        "id": "712020:f4a5d7ba-04ad-4349-a91c-a729753d10a8",
+        "name": "alyssa87",
+        "email": "alyssa87@debugger.com",
+        "last_active": "2025-05-01T08:22:23.779983Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_16",
+            "test_group_21"
+        ]
+    },
+    {
+        "id": "712020:3c193aee-434c-4328-8feb-2b9d04bc834d",
+        "name": "amybaker",
+        "email": "amybaker@debugger.com",
+        "last_active": "2025-05-01T08:19:46.800481Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_18"
+        ]
+    },
+    {
+        "id": "712020:5fd2e18f-f24a-4f2e-921a-58d8b8dd14ed",
+        "name": "ann24",
+        "email": "ann24@debugger.com",
+        "last_active": "2025-05-01T08:22:23.657188Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_18"
+        ]
+    },
+    {
+        "id": "712020:7708f00f-9081-4c96-b9ee-5ad0198391da",
+        "name": "ashley66",
+        "email": "ashley66@debugger.com",
+        "last_active": "2025-05-01T08:22:22.504057Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_18"
+        ]
+    },
+    {
+        "id": "712020:0dab52b9-274f-4e21-b43b-2d7133d432fb",
+        "name": "baileyphilip",
+        "email": "baileyphilip@testmail.com",
+        "last_active": "2025-05-01T07:57:46.795620Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1"
+        ]
+    },
+    {
+        "id": "712020:9fb68fa8-5419-44f7-9a01-3211dee14c84",
+        "name": "baileyphilip",
+        "email": "baileyphilip@academy.com",
+        "last_active": "2025-05-01T08:02:53.820836Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1"
+        ]
+    },
+    {
+        "id": "712020:1b47fcc4-932e-45fa-9dcf-18f28b7577b9",
+        "name": "barnesbobby",
+        "email": "barnesbobby@academy.com",
+        "last_active": "2025-05-01T08:02:52.841562Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1",
+            "test_group_18"
+        ]
+    },
+    {
+        "id": "712020:218eba82-6708-4996-a71b-f03bbeefe594",
+        "name": "barnesbobby",
+        "email": "barnesbobby@testmail.com",
+        "last_active": "2025-05-01T07:57:44.844085Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1"
+        ]
+    },
+    {
+        "id": "712020:292986dd-4a1c-45e2-9ff5-b6a4552d2cd0",
+        "name": "bennettandrew",
+        "email": "bennettandrew@testmail.com",
+        "last_active": "2025-05-01T06:45:51.436113Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:13742bdd-8703-43e3-9f0f-9ff29287db7a",
+        "name": "blackmichael",
+        "email": "blackmichael@debugger.com",
+        "last_active": "2025-05-01T08:19:47.171283Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_21"
+        ]
+    },
+    {
+        "id": "712020:c053480c-8273-4843-a097-b2208916e64d",
+        "name": "boydarthur",
+        "email": "boydarthur@academy.com",
+        "last_active": "2025-05-01T08:02:51.825468Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:d0385f68-395f-40f8-a408-b50e928df78f",
+        "name": "boydarthur",
+        "email": "boydarthur@testmail.com",
+        "last_active": "2025-05-01T07:57:43.776484Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:f9791d11-02a2-40d0-a809-b5d653e0637f",
+        "name": "brooksamy",
+        "email": "brooksamy@academy.com",
+        "last_active": "2025-05-01T08:02:51.287643Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1"
+        ]
+    },
+    {
+        "id": "712020:fa1737bf-223e-48e8-89bd-efa6df11423c",
+        "name": "brooksamy",
+        "email": "brooksamy@testmail.com",
+        "last_active": "2025-05-01T07:57:40.766637Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:4411cd41-43b5-45ad-8af6-204b96f6483e",
+        "name": "bryantjeffrey",
+        "email": "bryantjeffrey@testmail.com",
+        "last_active": "2025-05-01T07:57:44.968550Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:4bc83ec3-ffa5-4070-b03a-7c403ba6eac3",
+        "name": "bryantjeffrey",
+        "email": "bryantjeffrey@academy.com",
+        "last_active": "2025-05-01T08:02:52.959718Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:96f19699-0a08-40ca-bc5e-25613655c6c8",
+        "name": "clarklisa",
+        "email": "clarklisa@academy.com",
+        "last_active": "2025-05-01T08:02:56.070273Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:9eb1fd3b-816e-4982-b943-d9edd5c307e4",
+        "name": "clarklisa",
+        "email": "clarklisa@testmail.com",
+        "last_active": "2025-05-01T07:57:46.929787Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:e559262f-e7d8-4308-9b8b-691465dd7dc4",
+        "name": "coleman",
+        "email": "coleman@testmail.com",
+        "last_active": "2025-05-01T07:55:55.898180Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:9173e1dd-5e7e-4d31-8957-c02b8db9a684",
+        "name": "cooklarry",
+        "email": "cooklarry@academy.com",
+        "last_active": "2025-05-01T08:02:52.065383Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1"
+        ]
+    },
+    {
+        "id": "712020:95a636c3-9c84-4438-b48b-1640ba8b06b5",
+        "name": "cooklarry",
+        "email": "cooklarry@testmail.com",
+        "last_active": "2025-05-01T07:57:41.463284Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:c36819ae-7a75-4c9c-b1df-2b6f36fa3f57",
+        "name": "cooperdavid",
+        "email": "cooperdavid@testmail.com",
+        "last_active": "2025-05-01T07:57:47.189753Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:d1f88ffe-f87d-47bd-b57f-64b63e37714e",
+        "name": "cooperdavid",
+        "email": "cooperdavid@academy.com",
+        "last_active": "2025-05-01T08:02:54.189533Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:5b73959d-b3a9-4f74-b657-d525a85a8cc4",
+        "name": "crawfordgloria",
+        "email": "crawfordgloria@testmail.com",
+        "last_active": "2025-05-01T07:57:45.751488Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:9e07d12b-99ea-461e-897c-f5dd47479129",
+        "name": "crawfordgloria",
+        "email": "crawfordgloria@academy.com",
+        "last_active": "2025-05-01T08:02:56.611338Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:85d9c798-daf9-4e2f-b566-7c4f8844c5af",
+        "name": "cruzrachel",
+        "email": "cruzrachel@testmail.com",
+        "last_active": "2025-05-01T07:57:45.473794Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:9d418cb9-0c46-41d0-8599-f5dcfab50ff9",
+        "name": "cruzrachel",
+        "email": "cruzrachel@academy.com",
+        "last_active": "2025-05-01T08:02:54.431309Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:763bf2d1-6223-49e8-925f-8bd6511ffe24",
+        "name": "currymartin",
+        "email": "currymartin@debugger.com",
+        "last_active": "2025-05-01T08:23:14.147951Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:76febd04-3be7-42df-abfb-c4204e456a71",
+        "name": "dalemason",
+        "email": "dalemason@debugger.com",
+        "last_active": "2025-05-01T08:19:47.443648Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_2"
+        ]
+    },
+    {
+        "id": "712020:9c1a4cfe-b169-4b2c-a94f-7457b5af57ff",
+        "name": "david30",
+        "email": "david30@debugger.com",
+        "last_active": "2025-05-01T08:23:15.037658Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:6d303e4e-01b8-460a-8fbe-d627c238263a",
+        "name": "davisjeffrey",
+        "email": "davisjeffrey@debugger.com",
+        "last_active": "2025-05-01T08:22:22.636935Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:1051a4b0-9bd1-4f00-ae21-982e65285dd8",
+        "name": "dawsonricky",
+        "email": "dawsonricky@testmail.com",
+        "last_active": "2025-05-01T07:57:46.039974Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:c48e5205-7b1d-4b85-b2e8-a593cb67426a",
+        "name": "dawsonricky",
+        "email": "dawsonricky@academy.com",
+        "last_active": "2025-05-01T08:02:51.947767Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1",
+            "test_group_18"
+        ]
+    },
+    {
+        "id": "712020:ca011aca-4662-4f72-96ca-0cc82e48e86e",
+        "name": "dwhite",
+        "email": "dwhite@debugger.com",
+        "last_active": "2025-05-01T08:22:23.893498Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_18"
+        ]
+    },
+    {
+        "id": "712020:0b753672-87f7-41e5-b450-acc8b1c7381b",
+        "name": "edwardssteve",
+        "email": "edwardssteve@testmail.com",
+        "last_active": "2025-05-01T07:57:42.501158Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:b5501759-4953-4934-9531-d0e1fc3f4bde",
+        "name": "edwardssteve",
+        "email": "edwardssteve@academy.com",
+        "last_active": "2025-05-01T08:02:53.324793Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:f47b75f9-8dbe-4a52-b13d-f581dc4d95eb",
+        "name": "elizabethwilson",
+        "email": "elizabethwilson@debugger.com",
+        "last_active": "2025-05-01T08:22:22.372599Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:14a3c2e0-fe4f-47b2-b240-1b8da26ca9f8",
+        "name": "ellispatrick",
+        "email": "ellispatrick@academy.com",
+        "last_active": "2025-05-01T08:02:53.203313Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1",
+            "test_group_11"
+        ]
+    },
+    {
+        "id": "712020:5d9897f2-6ede-4185-9218-02a9302b7089",
+        "name": "ellispatrick",
+        "email": "ellispatrick@testmail.com",
+        "last_active": "2025-05-01T07:57:43.370954Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:dfc655fa-fb2a-43f1-80f3-2a82d692716c",
+        "name": "fordjanet",
+        "email": "fordjanet@academy.com",
+        "last_active": "2025-05-01T08:02:50.763579Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12"
+        ]
+    },
+    {
+        "id": "712020:ef8a0b03-87d1-4c0e-8e0d-c44610c30f8a",
+        "name": "fordjanet",
+        "email": "fordjanet@testmail.com",
+        "last_active": "2025-05-01T07:57:42.362604Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_1",
+            "test_group_12",
+            "test_group_20"
+        ]
+    },
+    {
+        "id": "712020:559e3c54-abeb-4494-95ef-e4f79e2aca95",
+        "name": "freemanhenry",
+        "email": "freemanhenry@testmail.com",
+        "last_active": "2025-05-01T07:57:42.918147Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12"
+        ]
+    },
+    {
+        "id": "712020:ae5e975b-e70f-498f-bbcf-f66f1cd24b54",
+        "name": "freemanhenry",
+        "email": "freemanhenry@academy.com",
+        "last_active": "2025-05-01T08:02:51.429205Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12",
+            "test_group_20"
+        ]
+    },
+    {
+        "id": "712020:dbde2882-fbe6-4073-9dc5-a28704cb4799",
+        "name": "goodmancameron",
+        "email": "goodmancameron@testmail.com",
+        "last_active": "2025-05-01T06:46:27.715296Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12"
+        ]
+    },
+    {
+        "id": "712020:0d42b880-e5c4-4847-8ec8-b9ea4b6fd974",
+        "name": "grahamlaura",
+        "email": "grahamlaura@testmail.com",
+        "last_active": "2025-05-01T07:57:46.674734Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12"
+        ]
+    },
+    {
+        "id": "712020:b976b2ff-0759-45c8-8ac7-d3b06b9a7bfa",
+        "name": "grahamlaura",
+        "email": "grahamlaura@academy.com",
+        "last_active": "2025-05-01T08:02:56.225678Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12"
+        ]
+    },
+    {
+        "id": "712020:1ddd5b21-36ad-4cc2-ad5e-ad296ba53003",
+        "name": "hamiltonjustin",
+        "email": "hamiltonjustin@testmail.com",
+        "last_active": "2025-05-01T07:57:40.935257Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:af96e72e-e0a4-4d18-98ec-050ac7f909a7",
+        "name": "hamiltonjustin",
+        "email": "hamiltonjustin@academy.com",
+        "last_active": "2025-05-01T08:02:53.082636Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12",
+            "test_group_20"
+        ]
+    },
+    {
+        "id": "712020:cca8b1ea-6938-4976-aa1a-064c3524962a",
+        "name": "hayesjulie",
+        "email": "hayesjulie@academy.com",
+        "last_active": "2025-05-01T08:02:51.158912Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:f0510456-82a7-4782-a379-475b19e74e6e",
+        "name": "hayesjulie",
+        "email": "hayesjulie@testmail.com",
+        "last_active": "2025-05-01T07:57:47.061931Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12",
+            "test_group_20"
+        ]
+    },
+    {
+        "id": "712020:9761ed4b-2361-4b70-b6d3-a5923e2bdcd7",
+        "name": "hicksrussell",
+        "email": "hicksrussell@academy.com",
+        "last_active": "2025-05-01T08:02:54.687586Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12",
+            "test_group_13",
+            "test_group_20"
+        ]
+    },
+    {
+        "id": "712020:c0bd52fa-905f-4eca-b9ad-6aac2d213011",
+        "name": "hicksrussell",
+        "email": "hicksrussell@testmail.com",
+        "last_active": "2025-05-01T07:57:45.903966Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:0cdd4d4c-81b9-4208-b5b2-aad5c154e40e",
+        "name": "howardkathleen",
+        "email": "howardkathleen@testmail.com",
+        "last_active": "2025-05-01T07:57:43.224563Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:61db93f7-f8ae-48e9-9be4-45a64ded76bd",
+        "name": "howardkathleen",
+        "email": "howardkathleen@academy.com",
+        "last_active": "2025-05-01T08:02:51.553103Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:b1d8fd57-f9d7-4f6c-9b17-e5941f8acbf4",
+        "name": "hunterann",
+        "email": "hunterann@academy.com",
+        "last_active": "2025-05-01T08:02:52.717712Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_12",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:da9e12ed-7fc7-4bbf-b62f-d511284b1829",
+        "name": "hunterann",
+        "email": "hunterann@testmail.com",
+        "last_active": "2025-05-01T07:57:44.077123Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_13",
+            "test_group_20"
+        ]
+    },
+    {
+        "id": "712020:8120ef5b-8fa3-4f2b-903c-a5ce07fccf1f",
+        "name": "jamesjessica",
+        "email": "jamesjessica@academy.com",
+        "last_active": "2025-05-01T08:02:54.310175Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:d6d1de5f-77d2-4e41-bf1c-d8d845c4c909",
+        "name": "jamesjessica",
+        "email": "jamesjessica@testmail.com",
+        "last_active": "2025-05-01T07:57:41.720100Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:367146ee-b6d7-4495-91de-df33633bf89e",
+        "name": "jenkinskaren",
+        "email": "jenkinskaren@testmail.com",
+        "last_active": "2025-05-01T07:57:44.477889Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:e8f46c0a-a5e3-4644-b4c4-52c0d117b3b9",
+        "name": "jenkinskaren",
+        "email": "jenkinskaren@academy.com",
+        "last_active": "2025-05-01T08:02:50.638913Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_13",
+            "test_group_20"
+        ]
+    },
+    {
+        "id": "712020:d8fb5aeb-294e-4b51-a146-83516598c8aa",
+        "name": "johnny16",
+        "email": "johnny16@debugger.com",
+        "last_active": "2025-05-01T08:23:15.562805Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:f3d3f1a6-586c-4d54-a825-17215d63396e",
+        "name": "josecardenas",
+        "email": "josecardenas@debugger.com",
+        "last_active": "2025-05-01T08:22:22.757877Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_2"
+        ]
+    },
+    {
+        "id": "712020:879ef8b5-aa6f-4e44-adf3-c57295f8acbf",
+        "name": "kimberly32",
+        "email": "kimberly32@testmail.com",
+        "last_active": "2025-05-01T06:51:26.052052Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:1b2c5b25-f966-4bf2-a443-f9b58896383f",
+        "name": "leesara",
+        "email": "leesara@debugger.com",
+        "last_active": "2025-05-01T08:19:47.567009Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:a65561f7-12df-4771-94cf-fa4cccad541f",
+        "name": "lfreeman",
+        "email": "lfreeman@debugger.com",
+        "last_active": "2025-05-01T08:22:22.882666Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:a6f9f4b2-0eb5-430e-bd18-16f33f171e18",
+        "name": "lmiller",
+        "email": "lmiller@debugger.com",
+        "last_active": "2025-05-01T08:22:24.144972Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:2fe92720-bb1c-4fa6-8429-39b0f6e3cef9",
+        "name": "longdennis",
+        "email": "longdennis@testmail.com",
+        "last_active": "2025-05-01T07:57:43.642442Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:c321c3d6-d6b1-4f47-9c73-a0896a2603b9",
+        "name": "longdennis",
+        "email": "longdennis@academy.com",
+        "last_active": "2025-05-01T08:02:54.822004Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_2"
+        ]
+    },
+    {
+        "id": "712020:085fef5e-fd8a-4d3a-a5ba-5ecb0a3163dd",
+        "name": "martinezrobert",
+        "email": "martinezrobert@debugger.com",
+        "last_active": "2025-05-01T08:19:47.319673Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:30e83765-97e1-45a3-80b4-09df330eed1c",
+        "name": "martinsusan",
+        "email": "martinsusan@academy.com",
+        "last_active": "2025-05-01T08:02:53.459777Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:994c9fa3-0ac3-4711-9a2c-806ae7f52be0",
+        "name": "martinsusan",
+        "email": "martinsusan@testmail.com",
+        "last_active": "2025-05-01T07:57:46.422162Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_13"
+        ]
+    },
+    {
+        "id": "712020:1319632a-33ca-41ef-b7ea-c3286cfe8579",
+        "name": "masonsara",
+        "email": "masonsara@testmail.com",
+        "last_active": "2025-05-01T07:57:44.600063Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:206ab334-a871-4649-98fc-af6f852016b4",
+        "name": "masonsara",
+        "email": "masonsara@academy.com",
+        "last_active": "2025-05-01T08:02:50.889609Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_13",
+            "test_group_14",
+            "test_group_19"
+        ]
+    },
+    {
+        "id": "712020:09fbe071-ef4e-4f88-b603-642b2891c9bd",
+        "name": "matthew78",
+        "email": "matthew78@debugger.com",
+        "last_active": "2025-05-01T08:19:46.930151Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_19"
+        ]
+    },
+    {
+        "id": "712020:a42095c6-fb8e-4eb8-a13c-03b4977bae9b",
+        "name": "maureenmontes",
+        "email": "maureenmontes@debugger.com",
+        "last_active": "2025-05-01T08:23:14.775379Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_19"
+        ]
+    },
+    {
+        "id": "712020:e84689be-aac5-48f4-873c-cfc6ab8d054f",
+        "name": "mcclainmatthew",
+        "email": "mcclainmatthew@debugger.com",
+        "last_active": "2025-05-01T08:23:14.633441Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:9b1bb27c-734b-4cfc-950c-d6bc79f75e59",
+        "name": "mccoydana",
+        "email": "mccoydana@debugger.com",
+        "last_active": "2025-05-01T08:23:14.394591Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_2"
+        ]
+    },
+    {
+        "id": "712020:29600ab1-532f-449a-aa07-4c93b1a043c0",
+        "name": "michael64",
+        "email": "michael64@debugger.com",
+        "last_active": "2025-05-01T08:22:23.025925Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:19dcf4f0-9b7e-4a9d-8a47-267407702a7d",
+        "name": "michaelbell",
+        "email": "michaelbell@debugger.com",
+        "last_active": "2025-05-01T08:23:14.270135Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_19"
+        ]
+    },
+    {
+        "id": "712020:2d7ba015-414b-4947-ade7-5310967ceb76",
+        "name": "mitchellnicholas",
+        "email": "mitchellnicholas@testmail.com",
+        "last_active": "2025-05-01T07:57:46.542841Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_19"
+        ]
+    },
+    {
+        "id": "712020:bf43403e-b0ee-4d45-ab91-11ba2117bb96",
+        "name": "mitchellnicholas",
+        "email": "mitchellnicholas@academy.com",
+        "last_active": "2025-05-01T08:02:55.591088Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14"
+        ]
+    },
+    {
+        "id": "712020:07e9fa8b-29b7-4264-afa4-0b98ad6a14f4",
+        "name": "mjackson",
+        "email": "mjackson@debugger.com",
+        "last_active": "2025-05-01T08:22:23.270360Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:c5a894c5-3056-45fe-8437-c2d2f920bcad",
+        "name": "mooreangela",
+        "email": "mooreangela@debugger.com",
+        "last_active": "2025-05-01T08:22:23.149719Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:3c5ddffe-98d1-4472-a2dc-ad5c5df8dc6b",
+        "name": "mooreanthony",
+        "email": "mooreanthony@academy.com",
+        "last_active": "2025-05-01T08:02:55.475713Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_19"
+        ]
+    },
+    {
+        "id": "712020:5390e3d2-8bbc-4f03-962c-d073b604bbb4",
+        "name": "mooreanthony",
+        "email": "mooreanthony@testmail.com",
+        "last_active": "2025-05-01T07:57:41.875065Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14"
+        ]
+    },
+    {
+        "id": "712020:64b0f42b-cb4f-4355-a330-eb73bd127581",
+        "name": "moralestyler",
+        "email": "moralestyler@testmail.com",
+        "last_active": "2025-05-01T06:45:16.469337Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:d8d3c319-5677-439b-bc1b-ee8737dd38fb",
+        "name": "morganmonique",
+        "email": "morganmonique@debugger.com",
+        "last_active": "2025-05-01T08:22:24.019368Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:027889eb-424f-4a67-b27e-4259335c8993",
+        "name": "morrisgregory",
+        "email": "morrisgregory@academy.com",
+        "last_active": "2025-05-01T08:02:56.358265Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14"
+        ]
+    },
+    {
+        "id": "712020:c7cea0ac-0f62-4b60-a027-735dd6ac2558",
+        "name": "morrisgregory",
+        "email": "morrisgregory@testmail.com",
+        "last_active": "2025-05-01T07:57:45.623856Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14"
+        ]
+    },
+    {
+        "id": "712020:816808b3-4a4a-4f2f-8ee8-0a38693fb93a",
+        "name": "nicoleanderson",
+        "email": "nicoleanderson@debugger.com",
+        "last_active": "2025-05-01T08:23:14.517199Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_19"
+        ]
+    },
+    {
+        "id": "712020:4c14a22f-492d-47c9-9b91-b16b8d237c28",
+        "name": "owensandrew",
+        "email": "owensandrew@academy.com",
+        "last_active": "2025-05-01T08:02:52.191035Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14",
+            "test_group_2"
+        ]
+    },
+    {
+        "id": "712020:b56a48d5-874e-4dac-a1d2-d1f0df833088",
+        "name": "owensandrew",
+        "email": "owensandrew@testmail.com",
+        "last_active": "2025-05-01T07:57:41.335291Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:54f4eb33-6c38-42ec-9dc3-760d10f8de34",
+        "name": "paigemartin",
+        "email": "paigemartin@testmail.com",
+        "last_active": "2025-05-01T06:53:19.226500Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14"
+        ]
+    },
+    {
+        "id": "557058:de669268-b5ac-41a6-a082-05d7626a2d8a",
+        "name": "PaulS",
+        "email": "hello@example.com",
+        "last_active": "2025-05-01T05:29:15.285290Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14",
+            "test_group_19"
+        ]
+    },
+    {
+        "id": "712020:3e9e22d7-5918-4269-965c-68e7d1a143a2",
+        "name": "perrymaria",
+        "email": "perrymaria@academy.com",
+        "last_active": "2025-05-01T08:02:54.976399Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14"
+        ]
+    },
+    {
+        "id": "712020:fc66b434-26ca-4955-9db5-2834c28aa23c",
+        "name": "perrymaria",
+        "email": "perrymaria@testmail.com",
+        "last_active": "2025-05-01T07:57:46.177053Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:909f0743-7115-4939-8303-0718a0e0da70",
+        "name": "petersonmichael",
+        "email": "petersonmichael@testmail.com",
+        "last_active": "2025-05-01T07:57:43.087090Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_23"
+        ]
+    },
+    {
+        "id": "712020:ea4c563e-3acb-465d-81c7-9489f1e07ccf",
+        "name": "petersonmichael",
+        "email": "petersonmichael@academy.com",
+        "last_active": "2025-05-01T08:02:55.708161Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_23"
+        ]
+    },
+    {
+        "id": "712020:5781517c-cb9d-4175-ba9c-9e82b7c56976",
+        "name": "piercevictoria",
+        "email": "piercevictoria@academy.com",
+        "last_active": "2025-05-01T08:02:52.592884Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:b9945cea-b72c-482d-8dd0-9b647d0f719e",
+        "name": "piercevictoria",
+        "email": "piercevictoria@testmail.com",
+        "last_active": "2025-05-01T07:57:44.722563Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_15",
+            "test_group_23"
+        ]
+    },
+    {
+        "id": "712020:b46a40b6-cde7-4138-a723-d4e98fb4984b",
+        "name": "powellnancy",
+        "email": "powellnancy@testmail.com",
+        "last_active": "2025-05-01T07:57:42.119225Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:cbe4e86b-d06d-4133-b31e-44d804d471f0",
+        "name": "powellnancy",
+        "email": "powellnancy@academy.com",
+        "last_active": "2025-05-01T08:02:52.314023Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_15"
+        ]
+    },
+    {
+        "id": "712020:37c51a4d-97f2-4f68-872d-b9102a8f4c00",
+        "name": "rachelsoto",
+        "email": "rachelsoto@testmail.com",
+        "last_active": "2025-05-01T06:44:04.263743Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_15",
+            "test_group_24"
+        ]
+    },
+    {
+        "id": "557058:f05b9b0a-7f17-4d64-9b45-ded7002cd346",
+        "name": "Ralph C Bolvin",
+        "email": "111@example.com",
+        "last_active": "2025-05-01T05:46:52.670317Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_15"
+        ]
+    },
+    {
+        "id": "712020:d65b89ac-3db7-4df1-9c68-be32887c6731",
+        "name": "rclay",
+        "email": "rclay@debugger.com",
+        "last_active": "2025-05-01T08:19:47.048741Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_24"
+        ]
+    },
+    {
+        "id": "712020:95c1db2d-a589-4d00-971e-9269f13a3d35",
+        "name": "reedmartha",
+        "email": "reedmartha@academy.com",
+        "last_active": "2025-05-01T08:02:54.562316Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_24"
+        ]
+    },
+    {
+        "id": "712020:968639a9-40ab-4c7f-93d7-39066068b863",
+        "name": "reedmartha",
+        "email": "reedmartha@testmail.com",
+        "last_active": "2025-05-01T07:57:45.210980Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_17"
+        ]
+    },
+    {
+        "id": "712020:7fd4ddea-0845-444a-bab9-ef5d469990c3",
+        "name": "richard93",
+        "email": "richard93@debugger.com",
+        "last_active": "2025-05-01T08:19:46.547108Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_24"
+        ]
+    },
+    {
+        "id": "712020:913d58af-8c28-4307-9b8c-96a210cfaef4",
+        "name": "richardsonbrandy",
+        "email": "richardsonbrandy@academy.com",
+        "last_active": "2025-05-01T08:02:55.943177Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:9dbfc188-7a2f-46a5-9fed-b492202c35c1",
+        "name": "richardsonbrandy",
+        "email": "richardsonbrandy@testmail.com",
+        "last_active": "2025-05-01T07:57:41.070537Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_17"
+        ]
+    },
+    {
+        "id": "712020:46376d89-611b-4ad8-abfe-8812cd038d6f",
+        "name": "riverajohnny",
+        "email": "riverajohnny@academy.com",
+        "last_active": "2025-05-01T08:02:55.355408Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_24"
+        ]
+    },
+    {
+        "id": "712020:a20e1ff0-2179-41c3-9e55-077f7b4cf80e",
+        "name": "riverajohnny",
+        "email": "riverajohnny@testmail.com",
+        "last_active": "2025-05-01T07:57:44.350260Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_17"
+        ]
+    },
+    {
+        "id": "712020:5f34e57a-3f11-4cdb-a297-03148a4e3277",
+        "name": "robert23",
+        "email": "robert23@debugger.com",
+        "last_active": "2025-05-01T08:23:15.932924Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:62bdaf90-b066-47fa-ab3c-75732b203ead",
+        "name": "robertchristensen",
+        "email": "robertchristensen@debugger.com",
+        "last_active": "2025-05-01T08:19:47.687450Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_25"
+        ]
+    },
+    {
+        "id": "712020:61a31eb0-1804-4b93-9046-7c4b2de6cbc0",
+        "name": "robertjames",
+        "email": "robertjames@debugger.com",
+        "last_active": "2025-05-01T08:23:15.811Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_25"
+        ]
+    },
+    {
+        "id": "712020:1a4f584a-7e64-4a8d-bcad-0eda994e0fe3",
+        "name": "robertspaul",
+        "email": "robertspaul@testmail.com",
+        "last_active": "2025-05-01T07:57:44.217168Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_25"
+        ]
+    },
+    {
+        "id": "712020:89e3cf57-41e0-40ee-ad04-131cb058ff96",
+        "name": "robertspaul",
+        "email": "robertspaul@academy.com",
+        "last_active": "2025-05-01T08:02:53.582855Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_25"
+        ]
+    },
+    {
+        "id": "712020:18135d27-f5ba-4dc1-ae41-e56825aa537c",
+        "name": "rogersgeorge",
+        "email": "rogersgeorge@academy.com",
+        "last_active": "2025-05-01T08:02:51.008051Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_17",
+            "test_group_25"
+        ]
+    },
+    {
+        "id": "712020:7a2b8e06-d0c9-4c6c-ba54-9e5e188fa18b",
+        "name": "rogersgeorge",
+        "email": "rogersgeorge@testmail.com",
+        "last_active": "2025-05-01T07:57:41.195564Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_3"
+        ]
+    },
+    {
+        "id": "712020:9edac20e-8baf-46ff-b913-ff93ffd9da2d",
+        "name": "russellcarol",
+        "email": "russellcarol@academy.com",
+        "last_active": "2025-05-01T08:02:50.511707Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_3"
+        ]
+    },
+    {
+        "id": "712020:a7ae48ba-ca13-485e-b2a4-193292ab3baa",
+        "name": "russellcarol",
+        "email": "russellcarol@testmail.com",
+        "last_active": "2025-05-01T07:57:41.995590Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_17"
+        ]
+    },
+    {
+        "id": "712020:87cd21d1-df89-4b6e-b8ee-8b75fa85e7a6",
+        "name": "scottsheena",
+        "email": "scottsheena@debugger.com",
+        "last_active": "2025-05-01T08:22:23.535001Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:b0f1e3b6-c78a-4e5b-ba26-4cd2db9400d4",
+        "name": "shankar",
+        "email": "shankar@tech.com",
+        "last_active": "2025-05-01T05:30:56.580399Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_10",
+            "test_group_17",
+            "test_group_3"
+        ]
+    },
+    {
+        "id": "712020:0fb49a70-5b50-4af8-80d6-66bcec5d7c65",
+        "name": "simmonsrobin",
+        "email": "simmonsrobin@testmail.com",
+        "last_active": "2025-05-01T07:57:41.595419Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_4",
+            "test_group_5"
+        ]
+    },
+    {
+        "id": "712020:cb701913-1bae-48a8-b370-6f0624da38f2",
+        "name": "simmonsrobin",
+        "email": "simmonsrobin@academy.com",
+        "last_active": "2025-05-01T08:02:55.098366Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:67cb36b8-ed00-4d5c-97ed-4bcb4d3898f7",
+        "name": "some",
+        "email": "some@some.in",
+        "last_active": "2025-05-01T06:04:00.939242Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_10"
+        ]
+    },
+    {
+        "id": "712020:84360d25-394d-4af3-928c-201d53d5e725",
+        "name": "stephenskim",
+        "email": "stephenskim@testmail.com",
+        "last_active": "2025-05-01T07:57:42.243454Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_10"
+        ]
+    },
+    {
+        "id": "712020:c1d7f604-63e7-4c95-b742-c7cc0492071f",
+        "name": "stephenskim",
+        "email": "stephenskim@academy.com",
+        "last_active": "2025-05-01T08:02:52.470860Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_10",
+            "test_group_5"
+        ]
+    },
+    {
+        "id": "712020:56a8b024-f098-4bad-acb2-3966fc5f45d6",
+        "name": "stevenwalker",
+        "email": "stevenwalker@debugger.com",
+        "last_active": "2025-05-01T08:23:15.689693Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:2fd82a3d-119d-4ea9-9705-c945c2cfe489",
+        "name": "stewartbarbara",
+        "email": "stewartbarbara@testmail.com",
+        "last_active": "2025-05-01T07:57:40.645254Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_10"
+        ]
+    },
+    {
+        "id": "712020:b187a47c-6d6e-4534-9a7a-d38452fdfd81",
+        "name": "stewartbarbara",
+        "email": "stewartbarbara@academy.com",
+        "last_active": "2025-05-01T08:02:53.938962Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_10"
+        ]
+    },
+    {
+        "id": "712020:0659d308-bff5-4e7f-8a5b-41087e6abbd8",
+        "name": "tara55",
+        "email": "tara55@testmail.com",
+        "last_active": "2025-05-01T06:44:40.029668Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_10",
+            "test_group_16",
+            "test_group_22",
+            "test_group_6"
+        ]
+    },
+    {
+        "id": "557058:06a3d13c-774d-4fd3-a029-160a47e5ff40",
+        "name": "test test",
+        "email": "test@testmail.com",
+        "last_active": "2025-05-01T06:12:41.645539Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_15",
+            "test_group_16",
+            "test_group_22",
+            "test_group_6"
+        ]
+    },
+    {
+        "id": "712020:4eb5a3a8-69c6-40e6-a5e6-17efac0ba79d",
+        "name": "turnerkevin",
+        "email": "turnerkevin@testmail.com",
+        "last_active": "2025-05-01T07:57:43.915476Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14",
+            "test_group_17",
+            "test_group_7"
+        ]
+    },
+    {
+        "id": "712020:da2147d4-0acf-43e0-99aa-fdd54f04ace3",
+        "name": "turnerkevin",
+        "email": "turnerkevin@academy.com",
+        "last_active": "2025-05-01T08:02:55.225165Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_15",
+            "test_group_18",
+            "test_group_8"
+        ]
+    },
+    {
+        "id": "712020:55360404-feb2-40ce-a8e0-231f460633d4",
+        "name": "walkerjoseph",
+        "email": "walkerjoseph@academy.com",
+        "last_active": "2025-05-01T08:02:56.486777Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_20",
+            "test_group_21",
+            "test_group_9"
+        ]
+    },
+    {
+        "id": "712020:f01e4c5d-d276-4ac9-85be-133b76612003",
+        "name": "walkerjoseph",
+        "email": "walkerjoseph@testmail.com",
+        "last_active": "2025-05-01T07:57:42.645592Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_22",
+            "test_group_8",
+            "test_group_9"
+        ]
+    },
+    {
+        "id": "712020:65c4f760-d429-4ec3-a27d-42704795fe6d",
+        "name": "walterscathy",
+        "email": "walterscathy@testmail.com",
+        "last_active": "2025-05-01T07:57:46.302964Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_16",
+            "test_group_6",
+            "test_group_7"
+        ]
+    },
+    {
+        "id": "712020:9d38b611-e26a-4411-8582-e1b7c4d89ece",
+        "name": "walterscathy",
+        "email": "walterscathy@academy.com",
+        "last_active": "2025-05-01T08:02:56.730417Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:2a4225ab-cbca-4235-bdaa-45230cd62912",
+        "name": "wardharold",
+        "email": "wardharold@testmail.com",
+        "last_active": "2025-05-01T07:57:45.345426Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_15"
+        ]
+    },
+    {
+        "id": "712020:f0d8a061-53e4-4f49-ba91-80c09a18010c",
+        "name": "wardharold",
+        "email": "wardharold@academy.com",
+        "last_active": "2025-05-01T08:02:55.824418Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:933d71da-6cab-47af-9ecf-c4fe87833b56",
+        "name": "webbellen",
+        "email": "webbellen@academy.com",
+        "last_active": "2025-05-01T08:02:53.699368Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14",
+            "test_group_24",
+            "test_group_4"
+        ]
+    },
+    {
+        "id": "712020:97d502f1-af99-4b4d-afd8-2bfd234191c6",
+        "name": "webbellen",
+        "email": "webbellen@testmail.com",
+        "last_active": "2025-05-01T07:57:42.783142Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:75f45edf-010b-457b-bc36-6a8b45454e71",
+        "name": "welchelizabeth",
+        "email": "welchelizabeth@debugger.com",
+        "last_active": "2025-05-01T08:23:14.909208Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:adb28ebd-47b9-4c7a-8618-72fb50c8a946",
+        "name": "williamsandrea",
+        "email": "williamsandrea@testmail.com",
+        "last_active": "2025-05-01T07:57:45.090266Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:ec17f655-bb73-4f76-8b18-0c3c52e8b8ac",
+        "name": "williamsandrea",
+        "email": "williamsandrea@academy.com",
+        "last_active": "2025-05-01T08:02:51.692448Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:2aec52ab-5e28-4d93-a768-355c696ecbbe",
+        "name": "woodwardryan",
+        "email": "woodwardryan@testmail.com",
+        "last_active": "2025-05-01T06:53:04.879171Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:934571be-2034-4586-84eb-37538154966e",
+        "name": "wreyes",
+        "email": "wreyes@debugger.com",
+        "last_active": "2025-05-01T08:22:23.392022Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_11",
+            "test_group_4",
+            "test_group_8"
+        ]
+    },
+    {
+        "id": "712020:21cbf3e6-8513-45f7-b6f7-89ff02775c96",
+        "name": "x",
+        "email": "x@testmail.com",
+        "last_active": "2025-05-01T06:41:23.075491Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:a1b60a78-e844-44de-aec1-c9118b51b597",
+        "name": "Yashowardhan Patil",
+        "email": "wardhanforapidev@gmail.com",
+        "last_active": "2025-04-30T20:07:03.665728Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "org-admins"
+        ]
+    },
+    {
+        "id": "712020:d268b707-ad8b-41ce-982c-680b14cda2a6",
+        "name": "Yashowardhan Patil",
+        "email": "patilyashowardhan@gmail.com",
+        "last_active": "2025-05-01T05:32:19.462677Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript"
+        ]
+    },
+    {
+        "id": "712020:ee145d2f-97e0-4360-ac7d-a185dde8f726",
+        "name": "ydavis",
+        "email": "ydavis@debugger.com",
+        "last_active": "2025-05-01T08:23:15.292541Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_14",
+            "test_group_4",
+            "test_group_6"
+        ]
+    },
+    {
+        "id": "712020:2a9c632a-7161-4da1-9376-2143c239a7f6",
+        "name": "zmartinez",
+        "email": "zmartinez@debugger.com",
+        "last_active": "2025-05-01T08:23:15.174275Z",
+        "status": "ENABLED",
+        "groups": [
+            "jira-users-playscript",
+            "test_group_10",
+            "test_group_12",
+            "test_group_13",
+            "test_group_9"
+        ]
+    }
+]
